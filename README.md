@@ -1,2 +1,2 @@
 # newProject
-Ciao io sono il tuo test!
+I see the changes using git Bash!
